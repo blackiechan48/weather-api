@@ -34,3 +34,7 @@ This weather app is a simple weather app that uses the openweathermap API to dis
 [API Documentation | OpenWeatherMap - Documentation](https://openweathermap.org/api)
 
 [MDN Web Docs - Date and Time](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
+## links 
+* [GitHub repository](https://github.com/blackiechan48/weather-api)
+* [Live demo link](https://blackiechan48.github.io/weather-api/)
